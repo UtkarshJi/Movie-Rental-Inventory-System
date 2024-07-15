@@ -37,7 +37,7 @@ The Movie Rental Inventory System is a comprehensive solution for managing a mov
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/YourUsername/MovieRentalInventorySystem.git
+    git clone https://github.com/UtkarshJi/MovieRentalInventorySystem.git
     cd MovieRentalInventorySystem
     ```
 
@@ -101,7 +101,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For any questions or suggestions, feel free to reach out:
 
 - **Email:** your.email@example.com
-- **GitHub:** [YourUsername](https://github.com/YourUsername)
+- **GitHub:** [UtkarshJi](https://github.com/YourUsername)
 - **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/YourLinkedInProfile)
 
 ---
