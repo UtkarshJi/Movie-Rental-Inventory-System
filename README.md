@@ -1,4 +1,4 @@
-# Movie Rental Inventory System 🎬📀
+# Movie Rental Inventory System 🎬
 
 Welcome to the Movie Rental Inventory System! This Java-based application is designed to manage movie rentals efficiently and effectively.
 
