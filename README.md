@@ -100,7 +100,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For any questions or suggestions, feel free to reach out:
 
-- **Email:** your.email@example.com
+- **Email:** utkarshs12121@gmail.com
 - **GitHub:** [UtkarshJi](https://github.com/YourUsername)
 - **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/YourLinkedInProfile)
 
