@@ -102,7 +102,7 @@ For any questions or suggestions, feel free to reach out:
 
 - **Email:** utkarshs12121@gmail.com
 - **GitHub:** [UtkarshJi](https://github.com/YourUsername)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/YourLinkedInProfile)
+- **LinkedIn:** [Utkarsh Sharma](https://www.linkedin.com/in/utkarsh-sharma-56a088274/)
 
 ---
 
