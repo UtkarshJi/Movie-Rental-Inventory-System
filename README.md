@@ -101,7 +101,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For any questions or suggestions, feel free to reach out:
 
 - **Email:** utkarshs12121@gmail.com
-- **GitHub:** [UtkarshJi](https://github.com/YourUsername)
+- **GitHub:** [UtkarshJi](https://github.com/UtkarshJi)
 - **LinkedIn:** [Utkarsh Sharma](https://www.linkedin.com/in/utkarsh-sharma-56a088274/)
 
 ---
