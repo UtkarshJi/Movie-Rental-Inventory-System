@@ -38,7 +38,7 @@ The Movie Rental Inventory System is a comprehensive solution for managing a mov
 1. **Clone the repository:**
     ```bash
     git clone https://github.com/UtkarshJi/MovieRentalInventorySystem.git
-    cd MovieRentalInventorySystem
+    cd Movie-Rental-Inventory-System
     ```
 
 2. **Build the project using Maven:**
